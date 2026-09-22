@@ -1,3 +1,5 @@
+<img width="901" height="498" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/4ec5ee47-70db-40a5-9b67-312c2bbe28ab" />
+
 # Nairabasket-Business-Performance-and-Revenue-Insights
 
 ## Project Background
